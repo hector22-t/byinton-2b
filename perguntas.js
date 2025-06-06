@@ -6,18 +6,18 @@ criaCartao(
 
 criaCartao(
     'copa do mundo ',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual è o pais com mais copas do mundo?',
+    'o pais com mais copas do mundo è brasil com 5 '
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'real madrid',
+    'quem é o idolo do Madrid',
+    'o maximo idolo do Madrid é CristianoRonaldo'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'champion legue ',
+    'quem é o time com maischampion legue?',
+    'O time com mais champion legue é o real Madrid com 15'
 )
